@@ -16,7 +16,6 @@ Ele pode ser útil para:
 * Estrutura de banco de dados (arquivo `Database.cs`, projeto SQL `PROJETOANDERYFODADEVERDADE.sqlproj`) para armazenar as cartas.
 * Repositório de cartas (`CartaRepository.cs`) com métodos de acesso a dados.
 * Projeto C# (`CodigoDBMTG.csproj`) que faz a ligação entre o código e o banco de dados.
-* Script SQL (`SqlQuery_1.sql`) para talvez criar ou consultar dados.
 * Licença MIT — livre para uso, modificação e distribuição.
 
 ## Tecnologias e Requisitos
